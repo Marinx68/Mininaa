@@ -1,0 +1,45 @@
+body { 
+    background-image: url("fond.jpeg");background-clip: content-box;
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+nav ul{
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+nav li{
+    list-style-type: none;
+    float: left;
+}
+nav a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 20px;
+    color: rgb(0, 0, 0);
+}
+.table {
+    display: table;
+    margin: 0 auto;
+}
+html {
+    font-family : "Times New Roman", Times, serif;
+    color : #ffffff;
+}
+h1 {
+    font-size : 80px;
+}
+h2 {
+    font-size : 30px;
+}
+h3 {
+    font-size : 30px;
+}
+h4{
+    font-size : 30px;
+}
+
